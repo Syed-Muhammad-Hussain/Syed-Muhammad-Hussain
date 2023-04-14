@@ -1,4 +1,5 @@
-![Model](Downloads/Syed Muhammad Hussain.png)
+<img align="right" alt="Coding" width="400" src="Downloads/Syed Muhammad Hussain.png">
+<img src="Downloads/Syed Muhammad Hussain.png">
 <h1 align="center">Hi 👋, I'm Syed Muhammad Hussain</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
